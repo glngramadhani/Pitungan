@@ -188,7 +188,69 @@ nav a{
 
 
 
+/*Features*/
+.features{
+    justify-content: center;
+    background-color: #F1F1F2;
+}
 
+.features .features-header{
+    text-align: center;
+    align-items: center;
+    max-width: 700px;
+    margin: 60px auto;
+}
+
+.features .features-header h2{
+    font-size: 52px;
+    margin-bottom: 20px;
+}
+
+.features .features-list{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+.feature-card{
+    background: white;
+    padding: 30px;
+    border-radius: 24px;
+    flex: 1;
+}
+
+.feature-icon{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 24px;
+    margin-bottom: 20px;
+}
+
+.features .feature-card:nth-child(1) .feature-icon{
+    background: #004FBF1A;
+}
+
+.features .feature-card:nth-child(2) .feature-icon{
+    background: #FDBB2633;
+}
+
+.features .feature-card:nth-child(3) .feature-icon{
+    background: #BE49001A;
+}
+
+.features .feature-card h3{
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+
+.features .feature-card .feature-icon img{
+    width: 25px;
+    height: fit-content;
+}
 
 
 
