@@ -252,38 +252,6 @@ nav a{
     height: fit-content;
 }
 
-/*Preview*/
-.preview{
-    background: white;
-    display: flex;
-    align-items: center;
-    gap: 80px;
-}
-
-.quiz-description h2{
-    font-size: 52px;
-    margin-bottom: 20px;
-}
-
-.strength{
-    margin-top: 30px;
-    display:grid;
-    row-gap: 10px;
-}
-
-.strength-item{
-    display: flex;
-    align-items: center;
-    gap: 12px;
-}
-
-.strength-icon img{
-    max-width: 30px;
-    height: fit-content;
-}
-
-
-
 
 
 
