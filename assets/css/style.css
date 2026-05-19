@@ -637,6 +637,54 @@ nav a {
     }
 }
 
+/*CTA section*/
+.cta {
+    background: white;
+}
+
+.cta-content {
+    background: #004FBF;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 60px 8%;
+    border-radius: 24px;
+}
+
+.cta-content h2 {
+    font-size: 52px;
+    margin-bottom: 20px;
+}
+
+.cta-content p {
+    font-size: 24px;
+    line-height: 1.8;
+    margin: auto;
+    margin-bottom: 30px;
+    max-width: 700px;
+}
+
+.cta-link {
+    margin: auto;
+    width: fit-content;
+}
+
+.cta-link a {
+    display: flex;
+    text-decoration: none;
+    background: white;
+    color: #004FBF;
+    padding: 14px 24px;
+    text-align: center;
+    width: 100%;
+}
+
+.cta-link a img {
+    margin: auto 5px;
+    width: 20px;
+    height: fit-content;
+}
+
 .footer {
     background: #E3E2E2;
     padding: 80px 8%;
