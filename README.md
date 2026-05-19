@@ -1,0 +1,100 @@
+<div align="center">
+
+<img src="assets/logotype.png" />
+
+### Belajar Matematika Jadi Lebih Menyenangkan
+
+Pitungan adalah platform pembelajaran matematika interaktif yang dirancang untuk membantu siswa belajar matematika dasar dengan cara yang lebih seru, modern, dan tidak membosankan.
+
+<img src="https://img.shields.io/badge/status-development-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
+
+</div>
+
+---
+
+# 📖 Tentang Pitungan
+
+Banyak pelajar menganggap matematika sebagai pelajaran yang sulit dan membosankan. Bahkan, tidak sedikit siswa yang masih mengalami kesulitan dalam operasi hitung dasar seperti perkalian dan pembagian.
+
+Pitungan hadir sebagai solusi pembelajaran matematika dasar yang:
+- interaktif
+- ramah untuk pelajar
+- modern
+- dan menyenangkan
+
+Dengan pendekatan gamifikasi, visual interaktif, dan UI yang hangat, Pitungan membantu siswa belajar matematika tanpa rasa takut.
+
+---
+
+# ✨ Fitur Utama
+
+## 📚 Materi Interaktif
+Belajar matematika dasar dengan tampilan visual yang mudah dipahami.
+
+## 🧠 Quiz Interaktif
+Latihan soal dengan sistem quiz yang seru dan tidak membosankan.
+
+## 🏆 Gamifikasi
+Sistem XP, badge, level, dan streak untuk meningkatkan motivasi belajar.
+
+## 📈 Progress Belajar
+Pantau perkembangan belajar secara realtime.
+
+## 🥇 Leaderboard
+Kompetisi sehat antar pengguna melalui sistem ranking.
+
+## 👤 Profile Pengguna
+Melihat statistik belajar, achievement, dan history pembelajaran.
+
+---
+
+# 🎯 Tujuan Project
+
+- Membantu siswa memahami matematika dasar
+- Mengurangi stigma bahwa matematika itu sulit
+- Membuat proses belajar lebih interaktif
+- Meningkatkan minat belajar matematika
+- Menghadirkan pengalaman belajar yang modern dan menyenangkan
+
+---
+
+# 🎨 Design System
+
+## 🌈 Color Palette
+
+| Color | Hex |
+|---|---|
+| Primary Blue | `#2563EB` |
+| Accent Yellow | `#FBBF24` |
+| Background | `#F8FAFC` |
+| Dark Text | `#0F172A` |
+
+---
+
+## ✍️ Typography
+
+- Nunito Sans
+- Quicksand
+- Plus Jakarta Sans
+
+---
+
+# 🖥️ Halaman Website
+
+- Landing Page
+- Dashboard
+- Material List
+- Material Detail
+- Quiz Page
+- Quiz Result
+- Leaderboard
+- Profile Page
+
+---
+
+# 🚀 Tech Stack
+
+```bash
+HTML, CSS, Javascript
